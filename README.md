@@ -66,6 +66,11 @@ file).
 - **Have an original or vector file?** Send it to the PR committee. Please don't edit the marks
   yourself; see the guidelines.
 
+
+## 📄 License
+- 📚 **Everything here is all rights reserved**, see [`LICENSE`](LICENSE). Please ask before reproducing or redistributing.
+- 🏷️ **Names, logos and marks:** see [`TRADEMARKS.md`](TRADEMARKS.md)
+
 ---
 
 *Part of PIR's move to make GitHub the canonical source for PIR media. Literature lives in
